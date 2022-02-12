@@ -1,3 +1,6 @@
+***** Used to calculate Tip per person and the generated bill amount per person. *****
+***** Used for splitting the bill among friends and people at restaurants,etc. *****
+
 Test cases for Tip Calculator:-
 
 1) Checking whether the application is operable and stable on different browsers like Google Chrome, Mozilla Firefox, Safari, etc.
