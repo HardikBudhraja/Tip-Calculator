@@ -1,6 +1,6 @@
-Used to calculate Tip per person and the generated bill amount per person.
-Used for splitting the bill among friends and people at restaurants,etc. 
-
+####Used to calculate Tip per person and the generated bill amount per person.
+####Used for splitting the bill among friends and people at restaurants,etc. 
+```
 Test cases for Tip Calculator:-
 
 1) Checking whether the application is operable and stable on different browsers like Google Chrome, Mozilla Firefox, Safari, etc.
@@ -33,6 +33,6 @@ should be able to perform actions within fraction of seconds.
 14) Verify that after erasing numbers the calculation is taking into account the latest number.
 
 15) Verify the text written on calculator button visible and readable or not.
-
+```
 
 
